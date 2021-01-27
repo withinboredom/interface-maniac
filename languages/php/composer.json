@@ -1,0 +1,16 @@
+{
+  "name": "withinboredom/interface-maniac",
+  "type": "project",
+  "description": "Convert from/to PHP interfaces",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rob Landers",
+      "email": "landers.robert@gmail.com"
+    }
+  ],
+  "require": {
+    "nikic/php-parser": "^4.10",
+    "nette/php-generator": "^3.5"
+  }
+}
